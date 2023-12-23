@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32f1b4e6-ae40-4627-8ca5-ad21418df3b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/jpp/gol/io/StandardWorldLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jpp/gol/io/StandardWorldLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jpp/gol/model/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jpp/gol/model/World.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gameoflife" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EdLxzwZfz76yicsx52ojsaLPm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Benutzer/napha/Desktop/Studydrive Game of Life/EPP_GoL2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.gameoflife [run]">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.console.GUI" />
+      <module name="gameoflife.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.console.GameOfLife" />
+      <module name="gameoflife.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.ui.Gui" />
+      <module name="gameoflife.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jpp.gol.ui.GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.gol.ui.GameOfLife" />
+      <module name="gameoflife.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.gol.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gameoflife [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.gameoflife [run]" />
+        <item itemvalue="Application.jpp.gol.ui.GameOfLife" />
+        <item itemvalue="Application.Gui" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.GameOfLife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\napha\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\napha\IdeaProjects\gameoflife" />
+          <option name="myCopyRoot" value="C:\Users\napha\IdeaProjects\gameoflife" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\napha\IdeaProjects\gameoflife" />
+          <option name="myCopyRoot" value="C:\Users\napha\IdeaProjects\gameoflife" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32f1b4e6-ae40-4627-8ca5-ad21418df3b7" name="Changes" comment="" />
+      <created>1662920764404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662920764404</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1663270088999</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663270088999</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1663270289150</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1663270289150</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1663272381439</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663272381440</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1663273073330</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663273073330</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1663274151655</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663274151655</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1663274345269</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1663274345269</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1663274546420</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663274546420</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1663277459673</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1663277459673</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1663277543845</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663277543845</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1663278080697</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1663278080697</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1663279472637</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663279472637</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1663279809981</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1663279809981</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1663279881003</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1663279881003</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1663282917579</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1663282917579</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1663283159783</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283159783</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1663283317923</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283317923</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1663283677310</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283677310</updated>
+    </task>
+    <task id="LOCAL-00043">
+      <created>1663335206553</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335206553</updated>
+    </task>
+    <task id="LOCAL-00044">
+      <created>1663335348846</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335348846</updated>
+    </task>
+    <task id="LOCAL-00045">
+      <created>1663335726202</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1663335726202</updated>
+    </task>
+    <task id="LOCAL-00046">
+      <created>1663421612001</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421612002</updated>
+    </task>
+    <task id="LOCAL-00047">
+      <created>1663421750964</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421750964</updated>
+    </task>
+    <task id="LOCAL-00048">
+      <created>1663421793398</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421793398</updated>
+    </task>
+    <task id="LOCAL-00049">
+      <created>1663421884094</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421884094</updated>
+    </task>
+    <task id="LOCAL-00050">
+      <created>1663422260867</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1663422260868</updated>
+    </task>
+    <task id="LOCAL-00051">
+      <created>1663422795568</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1663422795568</updated>
+    </task>
+    <task id="LOCAL-00052">
+      <created>1663423254588</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1663423254588</updated>
+    </task>
+    <task id="LOCAL-00053">
+      <created>1663425067154</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1663425067154</updated>
+    </task>
+    <task id="LOCAL-00054">
+      <created>1663435942171</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1663435942172</updated>
+    </task>
+    <task id="LOCAL-00055">
+      <created>1663456457885</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1663456457885</updated>
+    </task>
+    <task id="LOCAL-00056">
+      <created>1663456671797</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1663456671797</updated>
+    </task>
+    <task id="LOCAL-00057">
+      <created>1663521691331</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1663521691332</updated>
+    </task>
+    <task id="LOCAL-00058">
+      <created>1663522869615</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1663522869615</updated>
+    </task>
+    <task id="LOCAL-00059">
+      <created>1663523126648</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1663523126648</updated>
+    </task>
+    <task id="LOCAL-00060">
+      <created>1663523351859</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1663523351859</updated>
+    </task>
+    <task id="LOCAL-00061">
+      <created>1663529545318</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1663529545318</updated>
+    </task>
+    <task id="LOCAL-00062">
+      <created>1663529702697</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1663529702697</updated>
+    </task>
+    <task id="LOCAL-00063">
+      <created>1663530346131</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1663530346131</updated>
+    </task>
+    <task id="LOCAL-00064">
+      <created>1663530565718</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1663530565718</updated>
+    </task>
+    <task id="LOCAL-00065">
+      <created>1663530615903</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1663530615903</updated>
+    </task>
+    <task id="LOCAL-00066">
+      <created>1663530843689</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1663530843689</updated>
+    </task>
+    <task id="LOCAL-00067">
+      <created>1663532342836</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1663532342836</updated>
+    </task>
+    <task id="LOCAL-00068">
+      <created>1663532550782</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1663532550782</updated>
+    </task>
+    <task id="LOCAL-00069">
+      <created>1663536962374</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1663536962374</updated>
+    </task>
+    <task id="LOCAL-00070" summary="GUI window mit canvas malen und step">
+      <created>1663693973747</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1663693973747</updated>
+    </task>
+    <task id="LOCAL-00071" summary="neue benutzerdef welt,malen,start,stop">
+      <created>1663871643190</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1663871643190</updated>
+    </task>
+    <task id="LOCAL-00072" summary="alles ausser resize funktioniert nicht">
+      <created>1663974383750</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1663974383751</updated>
+    </task>
+    <task id="LOCAL-00073" summary="resize funktioniert immer noch nicht, hoffe das ist deswegen nicht die klausur schreiben kann">
+      <created>1664474413600</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1664474413601</updated>
+    </task>
+    <task id="LOCAL-00074" summary="resize funktioniert immer noch nicht. hoffe, dass ich trotzdem fuer die klausur zugelassen werde">
+      <created>1664474551770</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1664474551771</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented world without countlivingneighbours" />
+    <MESSAGE value="GUI window mit canvas malen und step" />
+    <MESSAGE value="neue benutzerdef welt,malen,start,stop" />
+    <MESSAGE value="alles ausser resize funktioniert nicht" />
+    <MESSAGE value="resize funktioniert immer noch nicht, hoffe das ist deswegen nicht die klausur schreiben kann" />
+    <MESSAGE value="resize funktioniert immer noch nicht. hoffe, dass ich trotzdem fuer die klausur zugelassen werde" />
+    <option name="LAST_COMMIT_MESSAGE" value="resize funktioniert immer noch nicht. hoffe, dass ich trotzdem fuer die klausur zugelassen werde" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gameoflife$gameoflife__run_.ic" NAME="gameoflife [run] Coverage Results" MODIFIED="1664121606530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
